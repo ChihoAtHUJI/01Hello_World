@@ -1,1 +1,1 @@
-def new():    if (a > 3):        print("hi")            print("hi")    if __name__ == '__main__':
+def new():    print("hi")    print("hi")new()

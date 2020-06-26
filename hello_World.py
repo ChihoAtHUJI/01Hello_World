@@ -1,1 +1,1 @@
-def new():    print("hi")    print("hi")new()
+def new():    print("hi")    print("hi")new()new()
